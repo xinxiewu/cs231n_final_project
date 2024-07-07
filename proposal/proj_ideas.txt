@@ -1,0 +1,10 @@
+Application: apply vision models into real-world problem - ConvNets
+	- Data Preparation, Loss Function, Training, Cross-validation, Testing, and Model Comparisons
+Retriction: involve pixels of visual data
+
+Proposal:
+	1. 200-400 words
+	2. Problem, reading for background, data source, methodology and improvement, and evaluation (qualitative & quantitative)
+
+Ideas: Brain MRI generation/synthesis, using Generative AI, based on the dataset of BraTS 2020
+	1. GAN, Diffusion
